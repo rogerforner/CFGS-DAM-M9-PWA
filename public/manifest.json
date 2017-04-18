@@ -1,0 +1,15 @@
+{
+  "name": "tinkering Progressive Web App",
+  "short_name": "tink. PWA",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3c8dbc",
+  "icons": [
+    {
+      "src": "img/user3-128x128.jpg",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    }
+  ]
+}

@@ -31,6 +31,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
 
+    <link rel="manifest" href="/manifest.json">
 </head>
 
 <body data-spy="scroll" data-target="#navigation" data-offset="50">
