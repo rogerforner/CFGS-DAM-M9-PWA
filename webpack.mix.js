@@ -30,6 +30,7 @@ mix.js('resources/assets/js/app.js', 'public/js')
    ], 'public/css/all-landing.css')
    //APP RESOURCES
    .copy('resources/assets/img/*.*','public/img')
+   .copy('resources/assets/js/service-worker.js','public')
    //VENDOR RESOURCES
    .copy('node_modules/font-awesome/fonts/*.*','public/fonts/')
    .copy('node_modules/ionicons/dist/fonts/*.*','public/fonts/')
